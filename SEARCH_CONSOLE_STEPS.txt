@@ -1,0 +1,61 @@
+MOVLAN ALIYEV — GOOGLE SEARCH VISIBILITY (COMPLETE THESE STEPS)
+Site: https://movlan-aliyev.github.io/
+Updated: 2026-07-13
+
+WHAT WAS DONE ON THE WEBSITE (technical — already live after push)
+-----------------------------------------------------------------
+1. Rich Person + Organization + WebSite schema (JSON-LD) with all sameAs links
+2. Official Links hub page: https://movlan-aliyev.github.io/links.html
+3. robots.txt + sitemap.xml (home, links, articles)
+4. Canonical URL, Open Graph image, Twitter cards, favicon
+5. Google site verification meta tag already present
+
+WHAT YOU MUST DO IN GOOGLE (cannot be automated from here)
+---------------------------------------------------------
+A. Google Search Console — https://search.google.com/search-console
+   1. Confirm property: https://movlan-aliyev.github.io/  (or add URL-prefix if missing)
+   2. Sitemaps → submit: https://movlan-aliyev.github.io/sitemap.xml
+   3. URL Inspection → inspect EACH of these → Request indexing:
+        - https://movlan-aliyev.github.io/
+        - https://movlan-aliyev.github.io/links.html
+   4. Wait 3–14 days; check Coverage / Pages for “Indexed”
+
+B. Validate structured data
+   - https://search.google.com/test/rich-results
+   - Paste: https://movlan-aliyev.github.io/
+   - Confirm Person / Organization detected with sameAs links
+
+C. Name consistency (critical for “Movlan Aliyev” searches)
+   Keep the SAME spelling + bio on LinkedIn, GitHub, FIDE, Chess.com, Dom sites:
+   - Name: Movlan Aliyev
+   - Location: Greater Boston / Waltham, MA
+   - Role: Chess Master | BI & Cloud Architect | Founder, Dom Tech & Chess Academy
+   - Link your portfolio URL in LinkedIn “Website” and GitHub profile
+
+D. Strengthen entity signals (optional but powerful)
+   1. LinkedIn Featured → add portfolio + FIDE + academy sites
+   2. Ensure FIDE profile name matches: Aliyev, Movlan
+   3. Create Wikidata item for “Movlan Aliyev” once notability sources exist
+      (Northeastern News + Azərbaycan newspaper already help)
+   4. If a Knowledge Panel appears later: Claim it via “Claim this knowledge panel”
+
+E. Bing (recommended)
+   - https://www.bing.com/webmasters → add site + submit sitemap
+
+EXPECTED RESULT
+---------------
+Searching “Movlan Aliyev” should increasingly return:
+  - Portfolio (movlan-aliyev.github.io)
+  - Official Links page
+  - LinkedIn / GitHub / FIDE / Chess.com / academy sites
+Google does NOT guarantee a Knowledge Panel; sameAs + news citations raise the odds.
+
+DONE CHECKLIST
+--------------
+[ ] Search Console property verified
+[ ] Sitemap submitted
+[ ] Homepage Request indexing
+[ ] /links.html Request indexing
+[ ] Rich Results Test OK
+[ ] LinkedIn Website = https://movlan-aliyev.github.io/
+[ ] GitHub profile website = https://movlan-aliyev.github.io/
