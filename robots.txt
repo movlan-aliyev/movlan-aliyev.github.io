@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://movlan-aliyev.github.io/sitemap.xml
-Host: https://movlan-aliyev.github.io
