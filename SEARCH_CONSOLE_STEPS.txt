@@ -28,7 +28,7 @@ B. Validate structured data
 C. Name consistency (critical for “Movlan Aliyev” searches)
    Keep the SAME spelling + bio on LinkedIn, GitHub, FIDE, Chess.com, Dom sites:
    - Name: Movlan Aliyev
-   - Location: Greater Boston / Waltham, MA
+   - Location: Massachusetts, USA
    - Role: Chess Master | BI & Cloud Architect | Founder, Dom Tech & Chess Academy
    - Link your portfolio URL in LinkedIn “Website” and GitHub profile
 
